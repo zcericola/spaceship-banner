@@ -1,2 +1,2 @@
 # spaceship-banner
-Animated banner for an insurance company
+Animated banner for web advertisement.
