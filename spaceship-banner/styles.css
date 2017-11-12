@@ -1,0 +1,27 @@
+#background {
+    width: 60%;
+    position: relative;
+}
+
+#spaceship {
+    position: absolute;
+    width: 300px;
+    height: 100px;
+    margin: -7em 19em;
+
+
+
+}
+
+.ad {
+    display: none;
+    color: white;
+    font-size: 11px;
+    text-align: center;
+    height: 90px;
+    width: 90px;
+    background-color: #696969;
+    border-radius: 50%;
+    position: absolute;
+    margin: -10em 3em;
+}
